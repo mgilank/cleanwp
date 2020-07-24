@@ -4,3 +4,5 @@ clean wordpress from post virus/malware and set back to default structure withou
 BEWARE
 if you have infected with malware before, please do a scan and manual check.
 this script not doing scanning.
+
+credit to [Jetorbit.com](https://www.jetorbit.com)
